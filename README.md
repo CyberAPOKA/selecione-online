@@ -1,0 +1,2 @@
+É um projeto onde que busca selecionar pessoas capacitadas de forma online para algum tipo de trabalho.
+O usuário irá cadastrar todo seu perfil com dados pessoais, endereço e currículo, assim a parte administrativa poderá visualizar e filtrar dentre os melhores candidatos.
